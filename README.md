@@ -1,4 +1,4 @@
-# AI-Powered Crop Health Detection
+# Crop Health Detection
 
 About the Project:
 This project uses Deep Learning to identify crop diseases from leaf images. It compares CNN, VGG16, and ResNet50 models to predict crop diseases and help farmers understand potential crop health issues.
